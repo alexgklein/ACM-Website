@@ -20,28 +20,28 @@ function Officers() {
       name: "Alexander Fisher", // Same picture
       position: "Internal Vice President",
       linkedin: "https://www.linkedin.com/in/fisheralexander03/",
-      imgSrc: require("../assets/headshots/Fisher+Headshot.png"),
+      imgSrc: require("../assets/headshots/Fisher+Headshot.jpg"),
       bio: "Former SWE @ BNY",
     },
     {
       name: "Jason Tenczar", // Keep
       position: "External Vice President",
       linkedin: "https://www.linkedin.com/in/jasontenczar/",
-      imgSrc: require("../assets/headshots/Jason+Headshot.png"),
+      imgSrc: require("../assets/headshots/Jason+Headshot.jpg"),
       bio: "Former SRE @ Disney, Former Software Engineer Intern @ Integris Group",
     },
     {
       name: "Kevin Newbold",
       position: "Secretary",
       linkedin: "https://www.linkedin.com/in/newbold-kevin/",
-      imgSrc: require("../assets/headshots/Kevin+Headshot.png"),
+      imgSrc: require("../assets/headshots/Kevin+Headshot.jpg"),
       bio: "Former Software Engineer Intern @ DS2",
     },
     {
       name: "Anteneh Zewdie",
       position: "Treasurer",
       linkedin: "https://www.linkedin.com/in/antenehzewdie/",
-      imgSrc: require("../assets/headshots/Anteneh+Headshot.png"),
+      imgSrc: require("../assets/headshots/Anteneh+Headshot.jpg"),
       bio: "Former Software Engineer Intern @ Datadog",
     },
     {
@@ -61,7 +61,7 @@ function Officers() {
     {
       name: "Jaedon Taylor",
       position: "VP of Professional Affairs",
-      imgSrc: require("../assets/headshots/Jaedon+Headshot.png"),
+      imgSrc: require("../assets/headshots/Jaedon+Headshot.jpeg"),
       linkedin: "https://www.linkedin.com/in/jaedon-taylor/",
       bio: "Prev @ Datadog",
     },
