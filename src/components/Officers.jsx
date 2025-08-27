@@ -63,14 +63,14 @@ function Officers() {
       position: "VP of Professional Affairs",
       imgSrc: require("../assets/headshots/Jaedon+Headshot.jpeg"),
       linkedin: "https://www.linkedin.com/in/jaedon-taylor/",
-      bio: "Prev @ Datadog",
+      bio: "Prev SWE @ Datadog",
     },
     {
       name: "Sanjeev Kamath",
       position: "Workshop Lead",
       linkedin: "https://www.linkedin.com/in/sanjeev-kamath/",
-      imgSrc: require("../assets/headshots/Sanjeev+Headshot.png"),
-      bio: "Prev @ Atmata Film",
+      imgSrc: require("../assets/headshots/Sanjeev+Headshot.jpg"),
+      bio: "Prev SWE Intern @ ABB; Study Abroad @ ZHAW 🇨🇭",
     },
     {
       name: "Jacob Frankel",
