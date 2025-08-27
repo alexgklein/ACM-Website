@@ -77,7 +77,7 @@ function Officers() {
       position: "Workshop Lead",
       linkedin: "https://www.linkedin.com/in/frankelj/",
       imgSrc: require("../assets/headshots/Jacob+Headshot.png"),
-      bio: "Prev @ Siemens Energy",
+      bio: "Prev @ Siemens",
     },
     {
       name: "Anilov Villanueva",
@@ -102,7 +102,7 @@ function Officers() {
 
   useEffect(() => {
     const handleResize = () => {
-      setIsMobile(window.innerWidth < 640 || window.innerHeight < 632);
+      setIsMobile(window.innerWidth < 600 || window.innerHeight < 550);
     };
 
     handleResize();
