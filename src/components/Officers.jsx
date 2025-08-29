@@ -49,7 +49,7 @@ function Officers() {
       position: "Marketing Lead",
       linkedin: "https://www.linkedin.com/in/alvin-cabe/",
       imgSrc: require("../assets/headshots/Alvin+Headshot.png"),
-      bio: "",
+      bio: "CS @ UF | '28",
     },
     {
       name: "Evan Warnock",
